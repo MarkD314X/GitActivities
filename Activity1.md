@@ -65,7 +65,7 @@ The base repository is where you forked, and your repository is where you will d
     ```  
     git status
     ```  
-
+"Made a change here."
     ![Check status to see changes pending](images/Activity1/Image0107.png)  
 
     Then run the command
